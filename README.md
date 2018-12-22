@@ -23,6 +23,12 @@ Unit tests: ![Unit tests status](https://specflow.vsrm.visualstudio.com/_apis/pu
 
 Publish to MyGet: ![Publish to MyGet status](https://specflow.vsrm.visualstudio.com/_apis/public/Release/badge/4d755a95-f4b3-45f5-abb5-aeccc2b85d15/2/7)
 
+### Visual Studio 2019 extension
+
+Unit tests:
+
+Publish to MyGet: 
+
 ## Build prerequisites
 
 ### VS 2015 Extension
@@ -38,6 +44,13 @@ Please use SpecFlow.VisualStudio.2015.sln as Solution file.
 - Visual Studio 2017 SDK
 
 Please use SpecFlow.VisualStudio.2017.sln as Solution file.
+
+### VS 2019 Extension
+
+- Visual Studio 2019
+- Visual Studio 2019 SDK
+
+Please use SpecFlow.VisualStudio.2019.sln as Solution file.
 
 ## Developing
 
